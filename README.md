@@ -21,36 +21,36 @@ The dissertation covers:
 ### 🔎 Quick Navigation
 
 #### 1. Introduction
-- [Introduction](./Dissertation.pdf#page=3)
-- [Background](./Dissertation.pdf#page=3)
-- [Motivation](./Dissertation.pdf#page=5)
-- [Aims and Objectives](./Dissertation.pdf#page=5)
+- [Introduction](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=3)
+- [Background](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=3)
+- [Motivation](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=5)
+- [Aims and Objectives](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=5)
 
 #### 2. Literature Review
-- [Literature Review](./Dissertation.pdf#page=6)
-- [Data Analysis Plans](./Dissertation.pdf#page=6)
-  - [Data Analysis Plan for Objective 1](./Dissertation.pdf#page=6)
-  - [Data Analysis Plan for Objective 2](./Dissertation.pdf#page=10)
-- [Results of Literature Search](./Dissertation.pdf#page=12)
-- [Key Features of the Clinical Dataset](./Dissertation.pdf#page=12)
-- [Demographic Information](./Dissertation.pdf#page=13)
+- [Literature Review](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=6)
+- [Data Analysis Plans](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=6)
+  - [Data Analysis Plan for Objective 1](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=6)
+  - [Data Analysis Plan for Objective 2](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=10)
+- [Results of Literature Search](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=12)
+- [Key Features of the Clinical Dataset](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=12)
+- [Demographic Information](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=13)
 
 #### 3. TUDOR Clinical Trial Data Analysis
 
 **Objective 1**
-- [Objective 1 Overview](./Dissertation.pdf#page=13)
-- [Method](./Dissertation.pdf#page=15)
-- [Description of Data](./Dissertation.pdf#page=17)
-- [Results](./Dissertation.pdf#page=20)
+- [Objective 1 Overview](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=13)
+- [Method](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=15)
+- [Description of Data](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=17)
+- [Results](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=20)
 
 **Objective 2**
-- [Objective 2 Overview](./Dissertation.pdf#page=24)
-- [Method](./Dissertation.pdf#page=25)
-- [Description of Data](./Dissertation.pdf#page=26)
-- [Results](./Dissertation.pdf#page=27)
+- [Objective 2 Overview](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=24)
+- [Method](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=25)
+- [Description of Data](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=26)
+- [Results](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=27)
 
 #### References
-- [References](./Dissertation.pdf#page=30)
+- [References](https://github.com/Alicege007/diagnosis-of-Psoriatic-Arthritis/blob/main/Dissertation.pdf#page=30)
 
 ---
 
