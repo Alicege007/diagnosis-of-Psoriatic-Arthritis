@@ -4,13 +4,6 @@
 This repository contains my dissertation project on the **diagnosis of Psoriatic Arthritis (PsA)**,
 based on the analysis of **clinical trial data from the TUDOR study**.
 
-The project focuses on:
-- Understanding clinical background and motivation through literature review
-- Designing data analysis plans aligned with predefined objectives
-- Performing statistical analysis on clinical trial data
-- Interpreting results in a clinical and research context
-
----
 
 ## 📄 Investigating a screening strategy for the early diagnosis of Psoriatic Arthritis (PDF)
 
