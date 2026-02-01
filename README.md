@@ -12,9 +12,9 @@ The project focuses on:
 
 ---
 
-## 📄 Report-Investigating a screening strategy for the early diagnosis of Psoriatic Arthritis (PDF)
+## 📄 Investigating a screening strategy for the early diagnosis of Psoriatic Arthritis (PDF)
 
-👉 **[Download Full Dissertation](./Dissertation.pdf)**  
+👉 **[Download Full Report](./Dissertation.pdf)**  
 
 📌 *Note: GitHub’s PDF preview does not fully support clickable table of contents or page-level navigation.  
 For the best reading experience, please download the PDF and use the built-in Table of Contents / bookmarks.*
