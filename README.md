@@ -1,4 +1,4 @@
-# Diagnosis of Psoriatic Arthritis
+# Investigating a screening strategy for the early diagnosis of Psoriatic Arthritis 
 
 ## 📌 Project Overview
 This repository contains my dissertation project on the **diagnosis of Psoriatic Arthritis (PsA)**,
