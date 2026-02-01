@@ -12,7 +12,7 @@ The project focuses on:
 
 ---
 
-## 📄 Dissertation (PDF)
+## 📄 Report-Investigating a screening strategy for the early diagnosis of Psoriatic Arthritis (PDF)
 
 👉 **[Download Full Dissertation](./Dissertation.pdf)**  
 
